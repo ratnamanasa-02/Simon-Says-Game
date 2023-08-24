@@ -1,0 +1,28 @@
+button{
+    height:200px;
+    width:200px;
+    border-radius: 20%;
+    border:10px solid black;
+    margin:2rem;
+}
+.A{
+    background-color:#d95980;
+}
+.B{
+    background-color:#63aac0;
+}
+.C{
+    background-color:#f99b45;
+}
+.D{
+    background-color:#819ff9;
+}
+body{
+    text-align: center;
+}
+.flash{
+    background-color: white;
+}
+.userflash{
+    background-color: green;
+}
